@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0B8235C8-928F-46C4-A235-17F511C38D11</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PhotoStack</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C8E432AC-3530-4E87-B7C6-5E40864E279B</key>
+		<string>https://github.com/rockerkekex/PhotoStack.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PhotoStack.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C8E432AC-3530-4E87-B7C6-5E40864E279B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rockerkekex/PhotoStack.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C8E432AC-3530-4E87-B7C6-5E40864E279B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C8E432AC-3530-4E87-B7C6-5E40864E279B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PhotoStack</string>
+		</dict>
+	</array>
+</dict>
+</plist>
